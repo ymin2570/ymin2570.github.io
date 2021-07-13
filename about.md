@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+블로그 주인 **정영민** 입니다.
+현재 4학년 학부생으로 재학중이며, 연락은 좌측 하단 이메일 아이콘 혹은 ymin2570@gmail.com 해당 주소를 통해 해주시길 바랍니다.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+제 블로그를 찾아주신 모든 분에게 행복한 일만 가득하길 바랍니다 :)
