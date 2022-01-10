@@ -28,13 +28,13 @@ date: 2022-01-10 20:40
 ## 새로운 Repository 생성
 ----------------------------
 
-![new_repo](/assets/images/blog/new_repo.png)  
+![image](/assets/images/blog/new_repo.PNG)  
 우선 기존 Repository를 복사할 새로운 Repository를 생성하였다.
 
 ## 복사할 Repository 링크 복사
 ----------------------------
 
-![link](/assets/images/blog/blog_link.png)  
+![image](/assets/images/blog/blog_link.PNG)  
 위 링크 옆 복사하기 버튼을 눌러 링크를 복사한다.  
 이후 터미널을 켠 뒤,   
 ```
