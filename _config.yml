@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Young min"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "South Korea"
-  location         : "Somewhere"
-  email            :
+  bio              : "평범한 대학생의 이것저것"
+  location         : "South Korea"
+  email            : "ymin2570@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
