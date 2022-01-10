@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Young min"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -108,9 +108,9 @@ author:
   location         : "South Korea"
   email            : "ymin2570@gmail.com"
   links:
-    - label: "Email"
+    - label: "ymin2570@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:ymin2570@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
