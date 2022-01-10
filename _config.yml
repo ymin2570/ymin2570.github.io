@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "평범한 대학생의 이것저것"
   location         : "South Korea"
-  email            : "ymin2570@gmail.com"
+  email            : 
   links:
     - label: "ymin2570@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
@@ -285,6 +285,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
