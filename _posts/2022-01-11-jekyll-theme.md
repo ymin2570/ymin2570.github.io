@@ -62,7 +62,7 @@ $gem install jekyll bundler
 ![image](/assets/images/blog/repos.PNG)  
 블로그 용으로 쓸 새로운 Repository를 위 사진처럼 githubID.github.io로 생성한다.  
 
-그 다음 해당 repository로 이동하여
+그 다음 해당 repository로 이동하여  
 ![image](/assets/images/blog/blog_link.PNG)  
 해당 Repository의 주소를 오른쪽 복사 버튼을 통해 복사한다.  
 
