@@ -81,7 +81,7 @@ $git clone https://github.com/ymin2570/ymin2570.github.io.git
 위 링크에서 다양한 테마를 확인할 수 있다.  
 참고로 본인은 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 테마를 사용하고 있으며, 해당 테마를 추천한다. (다른 테마도 써봤는데 사람들이 많이 쓰는 데에는 이유가 있더라..)  
 
-원하는 테마를 골랐다면 해당 테마의 Repository로 들어가서
+원하는 테마를 골랐다면 해당 테마의 Repository로 들어가서  
 ![image](/assets/images/blog/minimal.PNG)  
 위 사진처럼 code 버튼을 누른 후, 제일 아래에 있는 Download ZIP 버튼을 눌러 테마를 다운로드해준다.  
 
