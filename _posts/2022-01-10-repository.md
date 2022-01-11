@@ -1,5 +1,5 @@
 ---
-title: "[Github 블로그] Repository 변경"
+title: "[Github 블로그] Repository 변경 (블로그로 잔디심는법)"
 layout: archive
 categories: 
     - Github.io

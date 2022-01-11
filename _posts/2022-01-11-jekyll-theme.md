@@ -61,10 +61,9 @@ $gem install jekyll bundler
 -------------------
 ![image](/assets/images/blog/repos.PNG)  
 블로그 용으로 쓸 새로운 Repository를 위 사진처럼 githubID.github.io로 생성한다.  
-
-그 다음 해당 repository로 이동하여  
+ 
 ![image](/assets/images/blog/blog_link.PNG)  
-해당 Repository의 주소를 오른쪽 복사 버튼을 통해 복사한다.  
+그 다음 해당 repository로 이동하여 해당 Repository의 주소를 오른쪽 복사 버튼을 통해 복사한다.  
 
 ## 3. Local 폴더와 Repository 연동하기
 --------------------
@@ -81,9 +80,8 @@ $git clone https://github.com/ymin2570/ymin2570.github.io.git
 위 링크에서 다양한 테마를 확인할 수 있다.  
 참고로 본인은 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 테마를 사용하고 있으며, 해당 테마를 추천한다. (다른 테마도 써봤는데 사람들이 많이 쓰는 데에는 이유가 있더라..)  
 
-원하는 테마를 골랐다면 해당 테마의 Repository로 들어가서  
 ![image](/assets/images/blog/minimal.PNG)  
-위 사진처럼 code 버튼을 누른 후, 제일 아래에 있는 Download ZIP 버튼을 눌러 테마를 다운로드해준다.  
+원하는 테마를 골랐다면 해당 테마의 Repository로 들어가서 위 사진처럼 code 버튼을 누른 후, 제일 아래에 있는 Download ZIP 버튼을 눌러 테마를 다운로드해준다.  
 
 이후 다운로드한 폴더를 전부 복사하여 3번에서 만들어둔 로컬 폴더에 붙여넣는다.  
 여기까지 진행한 후에 commit을 하면 테마가 적용된 블로그를 확인할 수 있을 것이다.
