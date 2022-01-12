@@ -1,6 +1,5 @@
 ---
 title: "[Github 블로그] jekyll 테마를 이용하여 블로그 만들기"
-layout: archive
 categories: 
     - Github.io
 tags: 
@@ -14,7 +13,6 @@ jekyll 테마를 이용하여 깃허브 블로그 만드는 방법을 포스팅�
 블로그도 본격적으로 시작한 김에 이 것부터 얼른 해치워야겠다 라는 생각으로 글 작성 시작!
 
 ## 1. 세팅하기
--------------------
 제일 먼저 깔아야하는 것들이 있다.  
 바로 Ruby와 Git 설치!  
 
@@ -58,7 +56,6 @@ $gem install jekyll bundler
 위 명령어를 통해 Bundler까지 설치하면 기본 세팅 끝!  
 
 ## 2. Repository 생성하기
--------------------
 ![image](/assets/images/blog/repos.PNG)  
 블로그 용으로 쓸 새로운 Repository를 위 사진처럼 githubID.github.io로 생성한다.  
  
@@ -66,7 +63,6 @@ $gem install jekyll bundler
 그 다음 해당 repository로 이동하여 해당 Repository의 주소를 오른쪽 복사 버튼을 통해 복사한다.  
 
 ## 3. Local 폴더와 Repository 연동하기
---------------------
 터미널 창을 켜서 폴더를 설치하고 싶은 위치로 이동한 다음
 ```
 $git clone https://github.com/ymin2570/ymin2570.github.io.git
@@ -75,7 +71,6 @@ $git clone https://github.com/ymin2570/ymin2570.github.io.git
 이렇게 하면 원격으로 연결이 된 것이다.  
 
 ## 4. 원하는 Jekyll 테마 다운로드하기
---------------------
 <https://github.com/topics/jekyll-theme>
 위 링크에서 다양한 테마를 확인할 수 있다.  
 참고로 본인은 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 테마를 사용하고 있으며, 해당 테마를 추천한다. (다른 테마도 써봤는데 사람들이 많이 쓰는 데에는 이유가 있더라..)  
@@ -87,7 +82,6 @@ $git clone https://github.com/ymin2570/ymin2570.github.io.git
 여기까지 진행한 후에 commit을 하면 테마가 적용된 블로그를 확인할 수 있을 것이다.
 
 ## 5. 설정하기
-------------------
 우리 블로그는 우리 입맛대로 또 설정을 바꿔줘야겠지?
 
 ### _config.yml 파일 수정
@@ -100,7 +94,6 @@ title, name, description, url, repository 부분과 그 밑에 author 부분을 
 [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) 이 링크는 테마 제작자가 작성한 가이드이니 한번 읽어보면서 커스터마이징하면 도움이 될 것이다.
 
 ## 6. Commit하기
------------------
 혹시나 commit하는 방법을 모르는 사람이 있을까봐 추가한다.  
 ```
 $git add .
@@ -111,7 +104,6 @@ $git push origin --all
 두 번째 명령어에서 "message"는 무엇을 수정했는지 메모 정도의 느낌이라고 생각하면 된다.  
 
 ## 7. 글 작성하기
------------------
 블로그의 핵심이라고 할 수 있는 글 작성하는 방법이다.  
 이는 _post 폴더에서 작성하면 되는데, 만약 해당 폴더가 없다면 생성하면 된다.  
 글을 작성할 때 파일 이름은 YYYY-MM-DD-title.md 형식으로 생성하고, md 파일이기에 마크다운 형식으로 작성해야 한다.    

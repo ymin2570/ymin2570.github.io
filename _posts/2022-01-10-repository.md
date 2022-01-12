@@ -1,6 +1,5 @@
 ---
 title: "[Github 블로그] Repository 변경 (블로그로 잔디심는법)"
-layout: archive
 categories: 
     - Github.io
 tags: 
@@ -22,17 +21,16 @@ date: 2022-01-10 20:40
 
 물론 이전에 했던 commit들은 아까우니까 ~~(뭐 별로 하지도 않았지만..)~~  
 어떻게 방법이 없나 물색하던 도중..  
-#### **한 블로그를 찾아서 이를 해결하였다!**  
+
+**한 블로그를 찾아서 이를 해결하였다!**  
 해결 방법은 아래와 같다.
 
 ## 새로운 Repository 생성
-----------------------------
 
 ![image](/assets/images/blog/new_repo.PNG)  
 우선 기존 Repository를 복사할 새로운 Repository를 생성하였다.
 
 ## 복사할 Repository 링크 복사
-----------------------------
 
 ![image](/assets/images/blog/blog_link.PNG)  
 위 링크 옆 복사하기 버튼을 눌러 링크를 복사한다.  
@@ -44,7 +42,7 @@ $git clone --bare https://github.com/ymin2570/ymin2570.github.io.git
 물론 위 링크부분은 복사할 Repository 링크이다. (fork한 Repository)
 
 ## 생성된 디렉토리에서 Mirror push
--------------------------------
+
 위 명령어로 Bare clone을 진행하였다면, ymin2570.github.io.git 이라는 디렉토리가 생성되었을 것이다.  
 ```
 $cd ymin2570.github.io.git
@@ -60,6 +58,6 @@ $git push --mirror https://github.com/ymin2570/new_repos.git
 이제부터 새로운 글을 작성할 때마다 잔디가 깔릴 것이다.
 
 모두들 블로그 작성하며 잔디가 깔리는 편안함을 느끼시며 행복하게 공부하시길~  
-## 화이팅!
+**화이팅!**
 
 참고한 블로그 링크 : <https://soranhan.tistory.com/11>
