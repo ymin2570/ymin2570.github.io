@@ -91,8 +91,10 @@ $git clone https://github.com/ymin2570/ymin2570.github.io.git
 
 minimal-mistakes 테마를 기준으로 설명하면  
 title, name, description, url, repository 부분과 그 밑에 author 부분을 기본적으로 수정하는 것을 추천한다.  
-이외에 설정들은 직접 바꾸면서 어떤 것이 좋은지 커스터마이징하길 바란다.
-[Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) 이 링크는 테마 제작자가 작성한 가이드이니 한번 읽어보면서 커스터마이징하면 도움이 될 것이다.
+이외에 설정들은 직접 바꾸면서 어떤 것이 좋은지 커스터마이징하길 바란다.  
+
+[Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)  
+위 링크는 테마 제작자가 작성한 가이드이니 한번 읽어보면서 커스터마이징하면 도움이 될 것이다.
 
 ## 6. Commit하기
 혹시나 commit하는 방법을 모르는 사람이 있을까봐 추가한다.  
@@ -122,4 +124,4 @@ date: 2022-01-11 01:00
 머릿말은 위와 같이 작성하고, 그 아래에 글을 작성하면 된다.  
 필자의 글처럼 오른쪽에 목차를 띄우려면 위 메릿글에 추가로 toc: true를 추가하면 되고, 이 목차가 스크롤에 따라 움직이게 하려면 toc_sticky: true를 추가하면 된다. 
 
-모두들 즐겁게 블로그 운영하시길!
+**모두 즐거운 블로그 운영하시길!**
